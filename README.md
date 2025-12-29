@@ -20,7 +20,6 @@
     box-shadow: 0 0 30px rgba(255, 182, 193, 0.3);
     position: relative;
   }
-  /* гирлянда в пастельных тонах */
   .container::before {
     content: "";
     position: absolute;
